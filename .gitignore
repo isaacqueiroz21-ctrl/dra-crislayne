@@ -1,0 +1,18 @@
+# Vercel
+.vercel
+
+# macOS / Windows lixo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Node (caso precisemos no futuro)
+node_modules/
