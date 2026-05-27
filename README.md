@@ -3,7 +3,7 @@
 Site estático (HTML + CSS) pra colocar na bio do Instagram da Dra. Cryslaine Tavares
 ([@dra.cryslainetavares](https://instagram.com/dra.cryslainetavares)) — Caruaru-PE.
 
-- **Produção**: [dra-crislayne.vercel.app](https://dra-crislayne.vercel.app)
+- **Produção**: [dra-cryslaine.vercel.app](https://dra-cryslaine.vercel.app)
 - **Repo**: [github.com/isaacqueiroz21-ctrl/dra-crislayne](https://github.com/isaacqueiroz21-ctrl/dra-crislayne)
 
 ## Estrutura
